@@ -37,6 +37,5 @@ I'm an Information Engineering student and developer focused on building robust 
 
 ## 📬 Let's Connect
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email:** your.email@example.com
+- **LinkedIn:** [https://linkedin.com/in/gabriele-fiorese-9338a23b2]
+- **Email:** gabryf.1203@gmail.com
